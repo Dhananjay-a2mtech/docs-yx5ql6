@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ftuwiu.indocuan-pro.site/sitemap.xml
